@@ -1,5 +1,9 @@
 # Fuel Economy Data Analysis (R)
 
+<p align="center">
+<img src="https://di-uploads-pod5.dealerinspire.com/autocitysd/uploads/2019/10/fuel-economy-fact-and-fiction.jpg" height="80%" width="80%"/>
+<br />
+
 ## Introduction
 
 #### This Dataset contains Vehicle Fuel Economy statistics thats provides a reliable basis for comparing vehicles expenses and details. The fuel economy values provided by the EPA are accurate predictions of the fuel economy a typical driver will experience under typical driving conditions and serve as a useful benchmark when contrasting different vehicles. Your fuel economy could, however, differ slightly from the EPA's predictions. Fuel efficiency varies, sometimes significantly, depending on the road, the driver, and other aspects.
